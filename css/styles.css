@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#stephen-harrington-cover {
+  background-image: url("http://i.imgur.com/i7S6hAB.jpg");
+}
+
+#stephen-harrington-card {
+  background-image: url("http://i.imgur.com/G1lOSEz.jpg");
+}
+
 #sophia-varella-cover {
     background-image: url("http://i.imgur.com/v9ZXh0g.jpg");
 }
